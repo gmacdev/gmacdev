@@ -7,8 +7,8 @@ Android Developer & Founder/Creator of Adboost.app
 * 🌍  I'm based in Mumbai, India
 * 🖥️  See my portfolio at [linkedin](http://www.linkedin.com/in/gmacv/)
 * ✉️  You can contact me at [hellogmacv@gmail.com](mailto:hellogmacv@gmail.com)
-* 🚀  I'm currently working on [Ohm Assistant Android App](http://play.google.com/store/apps/details?id=com.sustlabs.ohmassistant&hl=en)
-* 🧠  I'm currently learning Flutter & Dart
+* 🚀  I'm currently working on [Ohm Assistant Android App](http://play.google.com/store/apps/details?id=com.sustlabs.ohmassistant&hl=en) for [Sustlabs](https://www.sustlabs.com/about)
+* 🧠  I'm also learning Flutter & Dart
 * ⚡  I'm also a Photographer, YouTuber/Gamer, Graphic Designer, Video Editor, PC Builder & Founder at IG @thequot3s
 
 ### Skills
