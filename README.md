@@ -41,8 +41,17 @@ Android Developer & Founder/Creator of Adboost.app
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
+### Projects Worked On/Developed & Maintained
+
+<p align="left"> 
+<a href="https://www.adboost.app/"><img src="https://i.imgur.com/0jywu8B.png" width="42" /></a>
+  &ensp;<a href="http://play.google.com/store/apps/details?id=com.sustlabs.ohmassistant&hl=en"><img src="https://i.imgur.com/CNX0wrx.png" width="42" /></a>  
+  &ensp;<a href="https://play.google.com/store/apps/details?id=inspireone.mastero&hl=en&gl=US"><img src="https://i.imgur.com/ww5tIgf.png" width="42" /></a>
+  &ensp;&ensp;And 6 other Kiosk Apps for phone, tablet & TVs (you can check them out on my linkedin)
+</p>
+
 ### Website
-<p align="left"> <a href="https://www.gmacv.com" target="_blank" rel="noreferrer"><img src="https://i.imgur.com/rcT9S6M.png" width="52" height="52" /></a></p>
+<p align="left"> <a href="https://www.gmacv.com" target="_blank" rel="noreferrer"><img src="https://i.imgur.com/rcT9S6M.png" width="42" height="42" /></a></p>
 
 ### Socials
 
@@ -51,3 +60,8 @@ Android Developer & Founder/Creator of Adboost.app
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/gmacv"><img src="https://i.imgur.com/dZzCcuP.png" width="200" /></a>
+
+### Want to create your own App?
+
+<a href="https://www.gmacv.com/make-android-app"><img src="https://i.imgur.com/z7Ls7qO.png" width="100"  /></a>
+
