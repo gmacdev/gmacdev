@@ -55,8 +55,12 @@ Android Developer & Founder/Creator of Adboost.app
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/gmacdev" target="_blank" rel="noreferrer"><img src="https://i.imgur.com/P9Y3UeA.png" width="32" height="32" /></a> <a href="http://www.instagram.com/gmaxgo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/gmacv" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/7118726" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/gmaxgo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
-<a href="https://gitlab.com/gulam.chandiwala" target="_blank" rel="noreferrer"><img src="https://i.imgur.com/A6pW4l4.png" width="32" height="32" /></a>
+<p align="left">
+  <a href="https://www.github.com/gmacdev" target="_blank" rel="noreferrer"><img src="https://i.imgur.com/P9Y3UeA.png" width="32" height="32" /></a>
+  <a href="https://gitlab.com/gulam.chandiwala" target="_blank" rel="noreferrer"><img src="https://i.imgur.com/A6pW4l4.png" width="32" height="32" /></a>  
+  <a href="https://www.linkedin.com/in/gmacv" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+  <a href="https://www.stackoverflow.com/users/7118726" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/gmaxgo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
+  <a href="http://www.instagram.com/gmaxgo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
 </p>
 
 ### Support Me
