@@ -71,3 +71,4 @@ Android Developer & Founder/Creator of Adboost.app
 
 <a href="https://www.gmacv.com/make-android-app"><img src="https://i.imgur.com/z7Ls7qO.png" width="100"  /></a>
 
+![Visitor Count](https://profile-counter.glitch.me/gmacdev/count.svg)
