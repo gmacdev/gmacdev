@@ -1,7 +1,7 @@
 Hi 👋 My name is Gulam Mohiuddin A Chandiwala (Gmacv)
 =====================================================
 
-Android Developer & Founder/Creator of Adboost.app
+Android Developer & Solo Founder of Adboost.app
 --------------------------------------------------
 
 * 🌍  I'm based in Mumbai, India
