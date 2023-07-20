@@ -1,15 +1,13 @@
 Hi 👋 My name is Gulam Mohiuddin A Chandiwala (Gmacv)
 =====================================================
 
-Android Developer & Solo Founder of Adboost.app
+Lead Android Developer + more
 --------------------------------------------------
 
 * 🌍  I'm based in Mumbai, India
 * 🖥️  See my portfolio at [linkedin](http://www.linkedin.com/in/gmacv/)
 * ✉️  You can contact me at [hellogmacv@gmail.com](mailto:hellogmacv@gmail.com)
-* 🚀  I'm currently working on [Ohm Assistant Android App](http://play.google.com/store/apps/details?id=com.sustlabs.ohmassistant&hl=en) for [Sustlabs](https://www.sustlabs.com/about)
-* 🧠  I'm also learning Flutter & Dart
-* ⚡  I'm also a Photographer, YouTuber/Gamer, Graphic Designer, Video Editor, PC Builder & Founder at IG @thequot3s
+* ⚡  I'm also a Photographer, YouTuber/Gamer, Graphic Designer, Video Editor, PC Builder & Solo Founder at [Adboost](https://www.adboost.app/)
 
 ### Skills
 
