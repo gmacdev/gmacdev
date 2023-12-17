@@ -45,7 +45,7 @@ Lead Android Developer + more
 <a href="https://www.adboost.app/"><img src="https://i.imgur.com/0jywu8B.png" width="42" /></a>
   &ensp;<a href="http://play.google.com/store/apps/details?id=com.sustlabs.ohmassistant&hl=en"><img src="https://i.imgur.com/CNX0wrx.png" width="42" /></a>  
   &ensp;<a href="https://play.google.com/store/apps/details?id=inspireone.mastero&hl=en&gl=US"><img src="https://i.imgur.com/ww5tIgf.png" width="42" /></a>
-  &ensp;&ensp;And 6 other Kiosk Apps for phone, tablet & TVs (you can check them out on my linkedin)
+  &ensp;&ensp;And 7 other Apps for phone, tablet & TVs (you can check them out on my LinkedIn)
 </p>
 
 ### My Gitlab
@@ -54,24 +54,14 @@ Lead Android Developer + more
   <a href="https://gitlab.com/gulam.chandiwala" target="_blank" rel="noreferrer"><img src="https://i.imgur.com/A6pW4l4.png" width="32" height="32" /></a>  
 </p>
 
-### Website
-<p align="left"> <a href="https://www.gmacv.com" target="_blank" rel="noreferrer"><img src="https://i.imgur.com/rcT9S6M.png" width="42" height="42" /></a></p>
-
 ### Socials
 
 <p align="left">
   <a href="https://www.linkedin.com/in/gmacv" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-  <a href="https://www.stackoverflow.com/users/7118726" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/gmaxgo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
-  <a href="http://www.instagram.com/gmaxgo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
-  <a href="https://www.github.com/gmacdev" target="_blank" rel="noreferrer"><img src="https://i.imgur.com/P9Y3UeA.png" width="32" height="32" /></a>
+  <a href="https://www.stackoverflow.com/users/7118726" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> 
 </p>
 
-### Support Me
-
-<a href="https://www.buymeacoffee.com/gmacv"><img src="https://i.imgur.com/dZzCcuP.png" width="200" /></a>
-
-### Want to create your own App?
-
-<a href="https://www.gmacv.com/make-android-app"><img src="https://i.imgur.com/z7Ls7qO.png" width="100"  /></a>
+### Website (inactive for now)
+<p align="left"> <a href="https://www.gmacv.com" target="_blank" rel="noreferrer"><img src="https://i.imgur.com/rcT9S6M.png" width="42" height="42" /></a></p>
 
 ![Visitor Count](https://profile-counter.glitch.me/gmacdev/count.svg)
