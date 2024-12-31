@@ -1,13 +1,13 @@
 Hi 👋 My name is Gulam Mohiuddin A Chandiwala (Gmacv)
 =====================================================
 
-Lead Android Developer + more
+Senior/Lead Android Developer + more
 --------------------------------------------------
 
 * 🌍  I'm based in Mumbai, India
 * 🖥️  See my portfolio at [linkedin](http://www.linkedin.com/in/gmacv/)
 * ✉️  You can contact me at [hellogmacv@gmail.com](mailto:hellogmacv@gmail.com)
-* ⚡  I'm also a Photographer, YouTuber/Gamer, Graphic Designer, Video Editor, PC Builder & Solo Founder at [Adboost](https://www.adboost.app/)
+* ⚡  In my free time, I'm a Photographer, YouTuber, Graphic Designer, Video Editor & PC Builder.
 
 ### Skills
 
