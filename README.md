@@ -32,7 +32,7 @@ Senior/Lead Android Developer + some extra
 <p align="left">
   <li>Design:&ensp;</li>
   <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://i.imgur.com/0Qx04St.png" width="36" height="36" alt="Photoshop" /></a>
-  <a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://i.imgur.com/aBNaEUB.png" width="36" height="36" alt="Illustrator" /></a>
+  <a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://i.imgur.com/aBNaEUB.png" width="36" height="36" alt="Illustrator" /></a>
   <a href="https://www.adobe.com/uk/products/aftereffects.html" target="_blank" rel="noreferrer"><img src="https://i.imgur.com/ItQ7tqq.png" width="36" height="36" alt="After Effects" /></a>
   <a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://i.imgur.com/Q6IYyhr.png" width="36" height="36" alt="Premiere Pro" /></a>
   <a href="https://www.adobe.com/uk/products/photoshop-lightroom.html" target="_blank" rel="noreferrer"><img src="https://i.imgur.com/Un9ETlk.png" width="36" height="36" alt="Lightroom" /></a>
@@ -62,10 +62,12 @@ Senior/Lead Android Developer + some extra
 
 <p align="left"> 
   <ul>
-<li><a href="https://www.adboost.app/"><img src="https://i.imgur.com/0jywu8B.png" width="42" /></a>
-  &ensp;<a href="http://play.google.com/store/apps/details?id=com.sustlabs.ohmassistant&hl=en"><img src="https://i.imgur.com/CNX0wrx.png" width="42" /></a>  
-  &ensp;<a href="https://play.google.com/store/apps/details?id=inspireone.mastero&hl=en&gl=US"><img src="https://i.imgur.com/ww5tIgf.png" width="42" /></a></li>
-  <br><li>And 10 other Apps for phone, tablet & TVs</li>
+    <li>
+    <a href="http://play.google.com/store/apps/details?id=com.sustlabs.ohmassistant&hl=en"><img src="https://i.imgur.com/CNX0wrx.png" width="42" /></a>  
+    &ensp;<a href="https://play.google.com/store/apps/details?id=inspireone.mastero&hl=en&gl=US"><img src="https://i.imgur.com/ww5tIgf.png" width="42" /></a>
+    &ensp;<img src="https://i.imgur.com/0jywu8B.png" width="42" /></li>
+    <br>
+    <li>And 10 other Apps for phone, tablet & TVs</li>
   </ul>
 </p>
 
